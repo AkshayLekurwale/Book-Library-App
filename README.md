@@ -9,12 +9,18 @@ The Book Library app is a mobile application developed using Android Studio and 
 - Intuitive user interface for easy navigation and interaction.
 
 ## Screenshots
+### Contact List
+![Contact List](contact_list.png)
 
-![Home Page](Home page.png)
-*Caption for Screenshot 1.*
+### Contact Profile
+![Contact Profile](contact_profile.png)
 
+### Home Page
+![Home Page](Home_page.png)
+
+### 
 ![Add page](Add page.png)
-*Caption for Screenshot 2.*
+
 
 ![Add page](Update Page.png)
 
