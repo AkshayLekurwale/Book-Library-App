@@ -11,7 +11,7 @@ The Book Library app is a mobile application developed using Android Studio and 
 ## Screenshots.
 
 ### Home Page.
-![Home Page](Home page.jpg)
+![Home Page](Home%20page.jpg)
 
 ### Add Page.
 ![Add page](Add_page.jpg)
