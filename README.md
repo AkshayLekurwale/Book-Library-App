@@ -8,23 +8,20 @@ The Book Library app is a mobile application developed using Android Studio and 
 - Store essential book details, including title, author, and page count.
 - Intuitive user interface for easy navigation and interaction.
 
-## Screenshots
-### Contact List
-![Contact List](contact_list.png)
+## Screenshots.
 
-### Contact Profile
-![Contact Profile](contact_profile.png)
-
-### Home Page
+### Home Page.
 ![Home Page](Home_page.png)
 
-### 
-![Add page](Add page.png)
+### Add Page.
+![Add page](Add_page.png)
 
+### Update Page.
+![Update Page](Update_Page.png)
 
-![Add page](Update Page.png)
+### After Updating Book details.
+![After update](After_Update.png)
 
-![Add page](After Update.png)
-
-![Add page](After delete.png)
+### After Deleting specified Book.
+![After Delete](After_delete.png)
 
