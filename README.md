@@ -10,18 +10,11 @@ The Book Library app is a mobile application developed using Android Studio and 
 
 ## Screenshots.
 
-### Home Page.
-![Home Page](Home%20page.jpg)
+### Home Page and Additions of Books.
+![Home Page](s1.jpg)
 
-### Add Page.
-![Add page](Add%20page.jpg)
+### Updations to Books.
+![Update page](s2.jpg)
 
-### Update Page.
-![Update Page](Update%20Page.jpg)
-
-### After Updating Book details.
-![After Update](After%20Update.jpg)
-
-### After Deleting specified Book.
-![After Delete](After%20delete.jpg)
-
+### Deletion of Books.
+![Delete Page](s3.jpg)
